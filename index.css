@@ -1,0 +1,138 @@
+
+.aboutMeProfileImg {
+  height: 500px;
+  width: 500px;
+  padding: 9px 0 9px 9px;
+  border-radius: 4px;
+  border-top: 10px double #110b2e;
+  border-left: 10px double #110b2e;
+  border-bottom: 10px double #110b2e;
+}
+.Mprofilesec{
+  height: 600px;
+}
+.aboutMe {
+  font-size: 50px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #110b2e;
+}
+.aboutMe span {
+  color: #22c55e;
+  border-bottom: 5px solid;
+}
+.aboutMeHeading {
+  font-size: 35px;
+  font-weight: bold;
+  color: #1f2937;
+}
+.aboutMedesc {
+  color: #110b2e;
+  font-weight: 450px;
+  font-family: cursive;
+  font-style: oblique;
+}
+.aboutcardmain{
+  height: 63rem;
+  margin-top: 16px;
+}
+/* .skillsCnt {
+  width: 55%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  gap: 10%;
+}
+.skillsCnt li {
+  /* width: 90px; 
+  font-size: 15px;
+  font-weight: 400;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 4px 10px;
+  background-color: #f43ff4;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.skillsCnt li:hover {
+  color: #f43ff4;
+  background-color: white;
+  border: 2px solid #f43ff4;
+} */
+
+.skillsCnt {
+  width: 50%;
+  /* background-color: red; */
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  gap: 26px;
+  /* border: 2px solid #F43F5E;  */
+}
+.skillsCnt li {
+  list-style: none;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #f43f5e;
+  border-radius: 4px;
+  padding: 4px 10px;
+  justify-content: space-between;
+}
+.skillsCnt li:hover {
+  background-color: #fff;
+  color: #f43f5e;
+  border: 2px solid #f43f5e;
+}
+ .S{
+   
+   margin-right: 90px;
+}
+.R{
+    margin-left: 40px;
+}
+.education{
+  width: 100%;
+  margin: 0 auto;
+  /* border: 2px  groove black; */
+}
+.projectSec-1{
+  /* border: 5px solid red; */
+  height: 900px;
+
+}
+.projectSec-2{
+  /* border: 5px solid red; */
+  height: 800px;
+  width: 100%;
+}
+.projectSec-3{
+  /* border: 5px solid red; */
+  height: 900px;
+  width: 100%;
+}
+.footercnt {
+  /* position: relative; */
+  background-image: url('./Tailwinproject/Assets/wave.jpg'); /* Path to your image */
+  background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; 
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  
+}
+
+.footercnt jpg {
+  /* position: absolute; */
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 200px;
+}
+.profiles{
+  /* border: 10px solid red; */
+  height: 55rem;
+}
+
+ 
